@@ -1,0 +1,22 @@
+h1 {
+	color: darkorange;
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 3px 3px 10px darkcyan;
+	font-family: papyrus, fantasy;
+	font-size: 4em;
+	border-bottom: 10px solid orangered;
+}
+
+h2 {
+	color: rgb(255, 255, 255);
+	text-align: center;
+	text-shadow: 0px 0px 20px orangered;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 3em;
+}
+
+.cupcake-img {
+	max-width: 175px;
+	max-height: 175px;
+}
